@@ -1,3 +1,8 @@
+# a simple script that sorts .jpg images in the same directory as it
+# into folders by date taken
+
+# Dependencies: PIL library
+
 from PIL import Image
 import os, shutil
 
